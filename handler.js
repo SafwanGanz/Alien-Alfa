@@ -27,7 +27,7 @@ module.exports = {
         if (typeof user !== 'object') global.DATABASE._data.users[m.sender] = {}
         if (user) {
           if (!isNumber(user.exp)) user.exp = 0
-          if (!isNumber(user.limit)) user.limit = 10
+          if (!isNumber(user.limit)) user.limit = 99
           if (!isNumber(user.lastclaim)) user.lastclaim = 0
           if (!('registered' in user)) user.registered = false
           if (!user.registered) {
@@ -42,7 +42,7 @@ module.exports = {
           if (!('autolevelup' in user)) user.autolevelup = false
         } else global.DATABASE._data.users[m.sender] = {
           exp: 0,
-          limit: 10,
+          limit: 99,
           lastclaim: 0,
           registered: false,
           name: this.getName(m.sender),
@@ -219,7 +219,7 @@ module.exports = {
           if (xp > 200) m.reply('Ngecit -_-') // Hehehe
           else m.exp += xp
           if (!isPrems && plugin.limit && global.DATABASE._data.users[m.sender].limit < plugin.limit * 1) {
-            this.reply(m.chat, `Limit anda habis, silahkan beli melalui *${usedPrefix}buy*`, m)
+            this.reply(m.chat, `Your limit is up, please buy via *${usedPrefix}buy*`, m)
             continue // Limit habis
           }
           let extra = {
