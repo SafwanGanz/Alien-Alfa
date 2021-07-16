@@ -4,7 +4,7 @@
 <a href="#"><img title="TOXIC-ALIEN" src="https://img.shields.io/badge/ToxicAlien-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-SafwanGanz/toxic-bot?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-SafwanGanz/Alien-Alfa?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -19,12 +19,12 @@ Project created by <a href="https://github.com/farhan-dqz">SafwanGanz</a> to mak
 
   <p align="center">
   <a href="httsp://github.com/farhan-dqz/JulieMwol">
-    <img src="https://img.shields.io/github/repo-size/SafwanGanz/toxic-bot?color=green&label=Repo%20total%20size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/SafwanGanz/Alien-Alfa?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/SafwanGanz/followers"><img title="Followers" src="https://img.shields.io/github/followers/SafwanGanz?color=blue&style=flat-square"></a>
-<a href="https://github.com/SafwanGanz/toxic-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SafwanGanz/Alien-Alfa?color=blue&style=flat-square"></a>
-<a href="https://github.com/SafwanGanz/toxic-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/fSafwanGanz/Alien-Alfa?color=blue&style=flat-square"></a>
-<a href="https://github.com/SafwanGanz/toxic-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SafwanGanz/Alien-Alfa?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/SafwanGanz/Alien-Alfa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SafwanGanz/Alien-Alfa?color=blue&style=flat-square"></a>
+<a href="https://github.com/SafwanGanz/Alien-Alfa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/fSafwanGanz/Alien-Alfa?color=blue&style=flat-square"></a>
+<a href="https://github.com/SafwanGanz/Alien-Alfa/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SafwanGanz/Alien-Alfa?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
