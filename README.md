@@ -22,9 +22,9 @@ Project created by <a href="https://github.com/farhan-dqz">SafwanGanz</a> to mak
     <img src="https://img.shields.io/github/repo-size/SafwanGanz/toxic-bot?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/SafwanGanz/followers"><img title="Followers" src="https://img.shields.io/github/followers/SafwanGanz?color=blue&style=flat-square"></a>
-<a href="https://github.com/SafwanGanz/toxic-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SafwanGanz/toxic-bot?color=blue&style=flat-square"></a>
-<a href="https://github.com/SafwanGanz/toxic-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/fSafwanGanz/toxic-bot?color=blue&style=flat-square"></a>
-<a href="https://github.com/SafwanGanz/toxic-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SafwanGanz/toxic-bot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/SafwanGanz/toxic-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SafwanGanz/Alien-Alfa?color=blue&style=flat-square"></a>
+<a href="https://github.com/SafwanGanz/toxic-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/fSafwanGanz/Alien-Alfa?color=blue&style=flat-square"></a>
+<a href="https://github.com/SafwanGanz/toxic-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SafwanGanz/Alien-Alfa?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -35,7 +35,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SafwanGanz&repo=toxic-bot&theme=nightowl)](https://github.com/SafwanGanz/toxic-bot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SafwanGanz&repo=Aline-Alfa&theme=nightowl)](https://github.com/SafwanGanz/Alien-Alfa)
   </div>
 ## FOR TERMUX/UBUNTU/SSH USER
 
