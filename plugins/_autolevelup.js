@@ -8,7 +8,7 @@ handler.before = m => {
 	while (levelling.canLevelUp(user.level, user.exp, global.multiplier)) user.level++
 	if (before !== user.level) m.reply(`Congratulations, you have leveled up!
 *${before}* -> *${user.level}*
-gunakan *.profile* untuk mengecek
+Use *.profile* check your profile
 	`.trim())
 }
 
