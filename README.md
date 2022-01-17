@@ -52,6 +52,13 @@ npm install
 
 ---------
 
+## DEPLOY ON HEROKU
+
+*
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SafwanGanz/Alien-alfa)
+
+---------
+
 ## FOR WINDOWS/VPS/RDP USER
 
 * Download And Install Git [`Click Here`](https://git-scm.com/downloads)
