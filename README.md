@@ -128,8 +128,7 @@ conn.logger.level = 'debug'
 
 #### Powered By : [`XTEAM`](https://api.xteam.xyz)
 
-#### Author / Creator : [`Nurutomo`](https://github.com/Nurutomo)
+#### Author / Creator : [`SafwanGanz`](https://github.com/SafwanGanz)
 
-#### Most Active Contributor : [`ariffb25`](https://github.com/ariffb25)
+#### Most Active Contributor : [`Toxic Alien`](https://github.com/alien-alfa)
 
-#### 2nd Most Active Contributor: [`Ftwrr`](https://github.com/Ftwrr)
