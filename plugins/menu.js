@@ -147,7 +147,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
       readmore: readMore
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
-    conn.reply(m.chat, text.trim(), m)
+    conn.send2Button(m.chat, text, `*Toxic-Bot@^0.1.1*\nToxic Alien Official whatsapp bot`.trim(), '🖥️INFO', '.speed', '😈OWNER', '#owner', m)
   } catch (e) {
     conn.reply(m.chat, 'sᴏᴍᴛʜɪɴɢ ᴇʀʀᴏʀ', m)
     throw e
