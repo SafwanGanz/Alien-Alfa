@@ -1,1 +1,1 @@
-web: node . --server
+node: node toxic.js
